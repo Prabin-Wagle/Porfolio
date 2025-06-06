@@ -18,8 +18,7 @@ This is a personal portfolio website created for **Subin** by **Prabin**.
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-- [Add frameworks/libraries if used]
+-React,Typescript
 
 ## Author
 
